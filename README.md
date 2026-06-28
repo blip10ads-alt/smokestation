@@ -1,2 +1,0 @@
-# smokestation
-Smoke Station Store
